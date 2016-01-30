@@ -1,5 +1,8 @@
 # aurea-understand
 
+
+Javadoc: `https://scitools.com/documents/manuals/java/index.html`
+
 ```
 	git clone git@github.com:softsky/aurea-understand.git
 	cd aurea-understand
